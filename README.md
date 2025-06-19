@@ -45,8 +45,8 @@ A modern, responsive task management application built with React.js, Vite, and 
 
 1. **Clone the repository:**
    ```bash
-   git clone [your-repository-url]
-   cd task-manager-app
+   git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Jakababa94.git
+   cd week-3-react-js-assignment-Jakababa94
    ```
 
 2. **Install dependencies:**
@@ -99,7 +99,7 @@ task-manager-app/
 
 _Deploy your application using [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or [GitHub Pages](https://pages.github.com/)._
 
-**Deployed URL:** [Add your deployed URL here]
+**Deployed URL:** [(https://plp-mern-stack-development.github.io/week-3-react-js-assignment-Jakababa94/)]
 
 ---
 

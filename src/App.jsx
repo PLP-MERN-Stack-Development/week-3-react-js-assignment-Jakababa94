@@ -18,9 +18,9 @@ function App() {
               It features a user-friendly interface, allowing you to add, edit, and delete tasks with ease.
             </p>            
             <div className="flex items-center gap-4 my-4">
-              <p className="text-gray-500 dark:text-white mt-4">
+              <span className="text-gray-500 dark:text-white mt-4">
                 <TaskManager/>
-              </p>
+              </span>
             </div>
           </div>
         </div>
